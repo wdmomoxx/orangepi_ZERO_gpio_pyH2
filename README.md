@@ -8,3 +8,8 @@ reference https://www.olimex.com/wiki/A20-OLinuXino-MICRO pyA20 https://pypi.pyt
 install ::
 
 python setup.py install 
+
+
+blink_led_test:
+
+![img](https://github.com/wdmomoxx/orangepi_ZERO_gpio_pyH2/blob/master/blink_led_test.png)
